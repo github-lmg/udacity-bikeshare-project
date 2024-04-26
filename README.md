@@ -24,3 +24,8 @@ Libraries used:
     - counts of each type of user
     - gender count
     - birth date stats (earliest, most recent, most common year of birth)
+
+## Data files used
+    - chicago.csv
+    - washington.csv
+    - new_york_city.csv
